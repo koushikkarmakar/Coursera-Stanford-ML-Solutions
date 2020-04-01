@@ -1,1 +1,1 @@
-# Coursera-ML-Solutions
+# Coursera Machine Learning Solutions
