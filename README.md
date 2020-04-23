@@ -1,1 +1,1 @@
-# Stanford Machine Learning Solutions
+# Stanford ML Solutions
