@@ -1,1 +1,1 @@
-# Coursera Machine Learning Solutions
+# Stanford Machine Learning Solutions
